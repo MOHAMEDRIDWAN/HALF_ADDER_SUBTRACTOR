@@ -71,5 +71,6 @@ endmodule
 ![image](https://github.com/2005moham/HALF_ADDER_SUBTRACTOR/assets/151419495/91bfc8b2-d8a2-4bd7-85e4-bf25a18ab3c1)
 **Output/TIMING Waveform**
 ![image](https://github.com/2005moham/HALF_ADDER_SUBTRACTOR/assets/151419495/735b3e54-d4df-4c41-b55d-32326a4b1819)
+
 **Result:**
 EXECUTED SUCCESFULLY
